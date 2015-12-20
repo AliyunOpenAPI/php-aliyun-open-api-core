@@ -21,11 +21,11 @@ $ composer require lokielse/aliyun-open-api-core
 ## Related
 
 ``` json
-"lokielse/aliyun-open-api-batch-compute": "^1.0.0"
-"lokielse/aliyun-open-api-ecs": "^1.0.0"
-"lokielse/aliyun-open-api-mts": "^1.0.0"
-"lokielse/aliyun-open-api-rds": "^1.0.0"
-"lokielse/aliyun-open-api-slb": "^1.0.0"
+"lokielse/aliyun-open-api-batch-compute": "~1.0.0",
+"lokielse/aliyun-open-api-ecs": "~1.0.0",
+"lokielse/aliyun-open-api-mts": "~1.0.0",
+"lokielse/aliyun-open-api-rds": "~1.0.0",
+"lokielse/aliyun-open-api-slb": "~1.0.0"
 ```
 
 
