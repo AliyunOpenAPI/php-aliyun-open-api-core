@@ -1,4 +1,4 @@
-<?php namespace Aliyun\Core\Regions\Test;
+<?php namespace Aliyun\Core\Test\Regions;
 
 /*
  * Licensed to the Apache Software Foundation (ASF) under one

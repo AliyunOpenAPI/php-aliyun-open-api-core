@@ -1,4 +1,4 @@
-<?php namespace Aliyun\Core\Auth\Test;
+<?php namespace Aliyun\Core\Test\Auth;
 
 /*
  * Licensed to the Apache Software Foundation (ASF) under one

@@ -1,4 +1,4 @@
-<?php namespace Aliyun\Core\Profile\Test;
+<?php namespace Aliyun\Core\Test\Profile;
 
 /*
  * Licensed to the Apache Software Foundation (ASF) under one
