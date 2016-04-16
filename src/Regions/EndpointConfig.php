@@ -78,7 +78,8 @@ class EndpointConfig
             new ProductDomain("Dqs", "dqs.aliyuncs.com"),
             new ProductDomain("Location", "location.aliyuncs.com"),
             new ProductDomain("Ubsms", "ubsms.aliyuncs.com"),
-            new ProductDomain("Ubsms-inner", "ubsms-inner.aliyuncs.com")
+            new ProductDomain("Ubsms-inner", "ubsms-inner.aliyuncs.com"),
+            new ProductDomain("Dm", "dm.aliyuncs.com")
         );
     }
 }
