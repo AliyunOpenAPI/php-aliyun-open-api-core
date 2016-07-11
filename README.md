@@ -17,13 +17,14 @@ $ composer require lokielse/aliyun-open-api-core
 
 ## Related
 
-``` json
-"lokielse/aliyun-open-api-batch-compute": "~1.0.0",
-"lokielse/aliyun-open-api-ecs": "~1.0.0",
-"lokielse/aliyun-open-api-mts": "~1.0.0",
-"lokielse/aliyun-open-api-rds": "~1.0.0",
-"lokielse/aliyun-open-api-slb": "~1.0.0"
-```
+- [lokielse/aliyun-open-api-batch-compute](https://github.com/lokielse/aliyun-open-api-batch-compute)
+- [lokielse/aliyun-open-api-ecs](https://github.com/lokielse/aliyun-open-api-ecs)
+- [lokielse/aliyun-open-api-mts](https://github.com/lokielse/aliyun-open-api-mts)
+- [lokielse/aliyun-open-api-rds](https://github.com/lokielse/aliyun-open-api-rds)
+- [lokielse/aliyun-open-api-slb](https://github.com/lokielse/aliyun-open-api-slb)
+- [lokielse/aliyun-open-api-push](https://github.com/lokielse/aliyun-open-api-push)
+- [lokielse/aliyun-open-api-mns](https://github.com/lokielse/aliyun-open-api-mns)
+
 
 
 ## Change log
